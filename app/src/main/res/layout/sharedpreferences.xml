@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="25dp">
+
+    <EditText
+        android:id="@+id/etSharedPrefs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Put something here!" />
+
+    <Button
+        android:id="@+id/bSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/bLoad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load" />
+
+    <TextView
+        android:id="@+id/tvLoadSharedPrefs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load your data" />
+
+    <Button
+        android:id="@+id/bClearSharedPreferences"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear Saved Data" />
+</LinearLayout>

@@ -1,0 +1,32 @@
+Applications Memory Usage (kB):
+Uptime: 3538429 Realtime: 3538429
+
+** MEMINFO in pid 6239 [com.thelastrobmitch.newbostontutorial] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     1077      988        0        0     7436     7402       33
+  Dalvik Heap      899      716        0        0     3016     2957       59
+ Dalvik Other      759      516        0        0                           
+        Stack       68       68        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1090      148      160        0                           
+    .apk mmap      126        0       32        0                           
+    .ttf mmap        7        0        0        0                           
+    .dex mmap      835       12      412        0                           
+   Other mmap        8        4        0        0                           
+      Unknown       52       52        0        0                           
+        TOTAL     4926     2504      608        0    10452    10359       92
+ 
+ Objects
+               Views:       17         ViewRootImpl:        1
+         AppContexts:        4           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        6        Proxy Binders:       15
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

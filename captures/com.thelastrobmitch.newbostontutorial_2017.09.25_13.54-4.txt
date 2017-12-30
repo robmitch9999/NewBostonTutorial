@@ -1,0 +1,87 @@
+Applications Graphics Acceleration Info:
+Uptime: 3552739 Realtime: 3552739
+
+** Graphics info for pid 6239 [com.thelastrobmitch.newbostontutorial] **
+
+Recent DisplayList operations
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+DrawRect
+multiDraw
+  DrawPatch
+multiDraw
+  DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache              260 / 75497472
+  LayerCache                  0 / 50331648
+  RenderBufferCache           0 /  8388608
+  GradientCache               0 /  1048576
+  PathCache                   0 / 33554432
+  TextDropShadowCache         0 /  6291456
+  PatchCache                640 /   131072
+  FontRenderer 0 A8     1048576 /  1048576
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  1048576 /  1048576
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  1049476 bytes, 1.00 MB
+
+Profile data in ms:
+
+	com.thelastrobmitch.newbostontutorial/com.thelastrobmitch.newbostontutorial.MyMenu/android.view.ViewRootImpl@acfc45b8
+View hierarchy:
+
+  com.thelastrobmitch.newbostontutorial/com.thelastrobmitch.newbostontutorial.MyMenu/android.view.ViewRootImpl@acfc45b8
+  17 views, 4.30 kB of display lists, 19 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        17
+Total DisplayList:  4.30 kB
+

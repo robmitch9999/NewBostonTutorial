@@ -1,0 +1,56 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+      * com.thelastrobmitch.newbostontutorial / u0a59:
+               TOTAL: 6.8% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+                 Top: 6.8% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Summary:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+           TOTAL: 6.8% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+             Top: 6.8% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Run time Stats:
+  SOn /Norm: +13h1m46s310ms
+      TOTAL: +13h1m46s310ms
+
+          Start time: 2016-06-21 20:16:00
+  Total elapsed time: +13h2m24s612ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+      * com.thelastrobmitch.newbostontutorial / u0a59:
+               TOTAL: 45% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+                 Top: 45% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Summary:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+           TOTAL: 45% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+             Top: 45% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Run time Stats:
+  SOn /Norm: +1h58m49s862ms
+      TOTAL: +1h58m49s862ms
+
+          Start time: 2016-07-14 16:04:23
+  Total elapsed time: +1h59m9s485ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+      * com.thelastrobmitch.newbostontutorial / u0a59:
+               TOTAL: 91% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+                 Top: 91% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Summary:
+  * com.thelastrobmitch.newbostontutorial / u0a59:
+           TOTAL: 91% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+             Top: 91% (4.5MB-7.1MB-8.5MB/2.8MB-5.2MB-6.4MB over 27)
+
+Run time Stats:
+  SOn /Norm: +58m51s343ms (running)
+      TOTAL: +58m51s343ms
+
+          Start time: 2017-09-25 12:55:50
+  Total elapsed time: +58m58s53ms (partial) libdvm.so chromeview

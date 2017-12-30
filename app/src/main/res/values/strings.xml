@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewBostonTutorial</string>
+    <string name="title_activity_starting_point">startingPoint</string>
+    <string name="hello">welcome</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_text">type text here for the top of the widget</string>
+    <string name="ad_unit">ca-app-pub-2261843105484899/4777428707</string>
+    <string name="ad_unit2">ca-app-pub-2261843105484899/4777428707</string>
+</resources>

@@ -1,0 +1,53 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      com.thelastrobmitch.newbostontutorial.ABOUTUS:
+        ad6cd1c8 com.thelastrobmitch.newbostontutorial/.AboutUs filter ad6c7b70
+          Action: "com.thelastrobmitch.newbostontutorial.ABOUTUS"
+          Category: "android.intent.category.DEFAULT"
+      com.thelastrobmitch.newbostontutorial.MYMENU:
+        ad879fe0 com.thelastrobmitch.newbostontutorial/.MyMenu filter ad86d940
+          Action: "com.thelastrobmitch.newbostontutorial.MYMENU"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        ad1b5088 com.thelastrobmitch.newbostontutorial/.Splash filter ad19f250
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.thelastrobmitch.newbostontutorial.PREFS:
+        ad634358 com.thelastrobmitch.newbostontutorial/.Prefs filter ad6264b0
+          Action: "com.thelastrobmitch.newbostontutorial.PREFS"
+          Category: "android.intent.category.DEFAULT"
+      com.thelastrobmitch.newbostontutorial.STARTINGPOINT:
+        ad908558 com.thelastrobmitch.newbostontutorial/.startingPoint filter ad8e43c8
+          Action: "com.thelastrobmitch.newbostontutorial.STARTINGPOINT"
+          Category: "android.intent.category.DEFAULT"
+
+Key Set Manager:
+  [com.thelastrobmitch.newbostontutorial]
+      Signing KeySets: 3
+
+Packages:
+  Package [com.thelastrobmitch.newbostontutorial] (ad47e7b8):
+    userId=10059 gids=[3003, 1028, 1015]
+    pkg=Package{ad9874c8 com.thelastrobmitch.newbostontutorial}
+    codePath=/data/app/com.thelastrobmitch.newbostontutorial-2.apk
+    resourcePath=/data/app/com.thelastrobmitch.newbostontutorial-2.apk
+    nativeLibraryPath=/data/app-lib/com.thelastrobmitch.newbostontutorial-2
+    versionCode=1 targetSdk=25
+    versionName=1.0
+    applicationInfo=ApplicationInfo{ad585e90 com.thelastrobmitch.newbostontutorial}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.thelastrobmitch.newbostontutorial
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-25 13:48:02
+    firstInstallTime=2017-09-25 12:58:35
+    lastUpdateTime=2017-09-25 13:48:02
+    signatures=PackageSignatures{ad367ec0 [ad37d7b0]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.SET_WALLPAPER
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.INTERNET
+      android.permission.WAKE_LOCK

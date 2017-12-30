@@ -1,0 +1,43 @@
+TASK com.thelastrobmitch.newbostontutorial id=5
+  ACTIVITY com.thelastrobmitch.newbostontutorial/.MyMenu ad3cb108 pid=6239
+    Local Activity acfa0c40 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc en_US ldltr sw320dp w320dp h550dp 120dpi nrml long port finger qwerty/v/v dpad/v s.6}
+    FragmentManager misc state:
+      mActivity=com.thelastrobmitch.newbostontutorial.MyMenu@acfa0c40
+      mContainer=android.app.Activity$1@acfa0dd0
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=3520383 (9563 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{acfa2200 V.E..... R....... 0,0-240,432}
+        android.widget.LinearLayout{acfa3378 V.E..... ........ 0,0-240,432}
+          android.view.ViewStub{acfa6af0 G.E..... ......I. 0,0-0,0 #102030e}
+          android.widget.FrameLayout{acfa70e0 V.E..... ........ 0,0-240,432 #1020002 android:id/content}
+            android.widget.ListView{acfa84b8 VFED.VC. .F...... 0,0-240,432 #102000a android:id/list}
+              android.widget.TextView{acfc8108 V.ED.... ........ 0,-11-240,25 #1020014 android:id/text1}
+              android.widget.TextView{acfc9630 V.ED.... ........ 0,26-240,62 #1020014 android:id/text1}
+              android.widget.TextView{acfc9ce0 V.ED.... ........ 0,63-240,99 #1020014 android:id/text1}
+              android.widget.TextView{acfca390 V.ED.... ........ 0,100-240,136 #1020014 android:id/text1}
+              android.widget.TextView{acfcaa40 V.ED.... ........ 0,137-240,173 #1020014 android:id/text1}
+              android.widget.TextView{acfcb0f0 V.ED.... ........ 0,174-240,210 #1020014 android:id/text1}
+              android.widget.TextView{acfcb7a0 V.ED.... ........ 0,211-240,247 #1020014 android:id/text1}
+              android.widget.TextView{acfcbe50 V.ED.... ........ 0,248-240,284 #1020014 android:id/text1}
+              android.widget.TextView{acfcc500 V.ED.... ........ 0,285-240,321 #1020014 android:id/text1}
+              android.widget.TextView{acfccbb0 V.ED.... ........ 0,322-240,358 #1020014 android:id/text1}
+              android.widget.TextView{acfcd260 V.ED.... ........ 0,359-240,395 #1020014 android:id/text1}
+              android.widget.TextView{acfcd910 V.ED.... ........ 0,396-240,432 #1020014 android:id/text1}
+    Looper (main, tid 1) {acf9b098}
+      (Total messages: 0, idling=false, quitting=false)
