@@ -31,8 +31,6 @@ public class MyMenu extends ListActivity{
         //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
         //        WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-        setTitle("testing title");
-
         setListAdapter(new ArrayAdapter<String>(MyMenu.this,
                 android.R.layout.simple_list_item_1, classes));
     }
